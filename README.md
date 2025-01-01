@@ -10,12 +10,12 @@
 - Microsoft Edge：[Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) 或 [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
 
 **2. 安装脚本**
-访问 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/522469-d-e-jp-image-auto-download) 安装脚本
+访问 [Greasy Fork](https://greasyfork.org/en/scripts/522469) 安装脚本
 
 **3. 使用脚本**
 访问 [D&E 日本官网](https://superjunior-dne.jp/group/photo)，点击浏览器上的脚本图标，点击脚本名称下的**下载所有图片**按钮。  
-选择要保存的文件夹  
-等待`下载完成！`提示
+选择要保存的文件夹。脚本会自动在文件夹下面以页面标题为名创建一个新的文件夹，如果浏览器弹出了权限申请，请点击允许。    
+等待`下载完成！`提示。
 
 > **注意事项**  
 > 浏览器需要安装 [Tampermonkey]() 或 [Violentmonkey]
