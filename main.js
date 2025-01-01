@@ -7,6 +7,9 @@
 // @description       Download the original images from the fan club photo page. Notice: Membership required
 // @description:zh-CN 下载日咖页面上的原图。注：需要会员身份
 // @icon              https://superjunior-dne.jp/assets/superjuniordne/fabicon-df43bc3beaeb85e3425f9d200bfb1577.jpg
+// @homepage          https://github.com/hnliuzesen/DnE-JP-IMG-DL
+// @supportURL        https://github.com/hnliuzesen/DnE-JP-IMG-DL/issues
+
 // @grant             GM_xmlhttpRequest
 // @grant             GM_download
 // @grant             GM_registerMenuCommand
