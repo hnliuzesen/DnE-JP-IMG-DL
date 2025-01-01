@@ -9,6 +9,7 @@
 // @icon              https://superjunior-dne.jp/assets/superjuniordne/fabicon-df43bc3beaeb85e3425f9d200bfb1577.jpg
 // @homepage          https://github.com/hnliuzesen/DnE-JP-IMG-DL
 // @supportURL        https://github.com/hnliuzesen/DnE-JP-IMG-DL/issues
+// @license           MIT
 
 // @grant             GM_xmlhttpRequest
 // @grant             GM_download
